@@ -1,8 +1,5 @@
 # Hola, soy Héctor 👋
-Soy un desarrollador de software capacitado en python, 
-java scrip, django, Css y SQL. 
-He trabajado en proyectos pequeños dentro de mi universidad y estoy siempre buscando 
-oportunidades para trabajar en nuevos proyectos  y equipos colaborativos.
+Soy un desarrollador de software capacitado en Python, JavaScript, Django, CSS y SQL. He trabajado en proyectos pequeños dentro de mi universidad y siempre estoy buscando oportunidades para trabajar en nuevos proyectos y equipos colaborativos.
 
 ## 🎓 Educación y Formación Adicional
 - Estudiante de la Universidad Autónoma de la Ciudad de México (06-08-2018 - Presente)
