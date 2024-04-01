@@ -19,8 +19,9 @@ Soy un desarrollador de software capacitado en Python, JavaScript, Django, CSS y
 
   
 ## 👯 Estoy buscando colaborar en ...
-Me gustaría colaborar en proyectos de páginas web o
-desempeñarme como desarrollador de front-end.
+Me gustaría colaborar en proyectos de páginas web o desempeñarme como desarrollador de front-end. 
+Un sueño que tengo es trabajar en un banco, donde pueda aplicar mis habilidades técnicas para
+resolver problemas complejos y hacer una diferencia en la industria financiera.
 
 ## 📫 Cómo contactarme: 
 - Correo electrónico: hector_garcia_dj@hotmail.com
