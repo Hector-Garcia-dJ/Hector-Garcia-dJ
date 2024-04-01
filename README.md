@@ -14,7 +14,7 @@ Soy un desarrollador de software capacitado en Python, JavaScript, Django, CSS y
 ## 🌱 Actualmente estoy aprendiendo:
 - Cursos de Udemy:
   - Hacking ético y ciberseguridad: Un curso que cubre los fundamentos de las técnicas de hacking ético y ciberseguridad. Este curso me está proporcionando una sólida base en seguridad informática y me está preparando para enfrentar y resolver problemas de seguridad en el mundo real.
-  - 
+    
   - IA generativa: Un curso que cubre los fundamentos y conceptos avanzados de inteligencia artificial y aprendizaje automático. Este curso me está ayudando a entender cómo se pueden generar nuevos contenidos a partir de datos existentes utilizando técnicas de IA.
 
   
@@ -23,5 +23,5 @@ Me gustaría colaborar en proyectos de páginas web o
 desempeñarme como desarrollador de front-end.
 
 ## 📫 Cómo contactarme: 
--Correo electrónico: hector_garcia_dj@hotmail.com
--Teléfono: 56-19-37-32-43
+- Correo electrónico: hector_garcia_dj@hotmail.com
+- Teléfono: 56-19-37-32-43
