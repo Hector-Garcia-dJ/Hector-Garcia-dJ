@@ -3,7 +3,7 @@ Soy un estudiante de desarrollo de software aprendiendo y mejorando en Python, J
 
 ## 🎓 Educación y Formación Adicional
 - Estudiante de la Universidad Autónoma de la Ciudad de México (06-08-2018 - Presente)
-- Cursos de Udemy:
+- Conocimientos adicionales:
   - Python: Un curso de Python que cubre los fundamentos del lenguaje,
     estructuras de datos y programación orientada a objetos.
   - Base de datos: Un curso que cubre los fundamentos de las bases de datos
